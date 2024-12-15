@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\College\College project\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCatagory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
